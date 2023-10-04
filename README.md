@@ -22,3 +22,5 @@ Quality Control: Ensuring the quality of products and services is essential. SCM
 Demand Management: Companies need to anticipate and respond to changes in customer demand. Effective demand management helps avoid overproduction and underproduction.
 
 Sustainability and Ethics: In recent years, sustainability and ethical considerations have become increasingly important in SCM. Companies are expected to consider environmental impact, ethical sourcing, and social responsibility in their supply chain practices.
+
+In summary, supply chain management is about orchestrating the entire process of getting products or services from suppliers to customers efficiently and effectively. It involves careful planning, coordination, and optimization of all the steps involved in this journey, with the ultimate goal of delivering value to customers while minimizing costs and waste.
